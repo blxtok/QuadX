@@ -1,7 +1,7 @@
 local Game = nil
 local Supported = nil
 
-if game.PlaceId == "2629642516" then
+if game.PlaceId == 2629642516 then
    Game = "BitcoinMiner"
    Supported = true
 end
